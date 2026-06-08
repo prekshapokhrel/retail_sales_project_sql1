@@ -322,7 +322,7 @@ ORDER BY variance DESC;
 * **About the Data:** The dataset used for this analysis was sourced randomly from a free, publicly available online database. It is utilized strictly for educational and portfolio demonstration purposes.
 * **Primary Objective:** The core focus of this repository is to showcase proficiency in **SQL**, specifically the ability to take raw, uncurated data and transform it into meaningful business insights.
 
-## 🤖 Use of AI Disclosure
+## Use of AI Disclosure
 * **Documentation Support:** Generative AI was used as a collaborative tool to assist in structuring, formatting, and refining this `README.md` file to ensure professional presentation and clarity.
 * **Human-Executed Logic:** All underlying data analysis, database schema comprehension, and **100% of the SQL query logic** were conceptualized and written solely by me to demonstrate my technical skills.
 ---
